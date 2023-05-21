@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">taskManager</string>
+    <string name="my_task">Mои задачи</string>
+</resources>
